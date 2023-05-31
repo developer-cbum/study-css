@@ -1,0 +1,62 @@
+.css-16h7nba {
+  text-align: center;
+  transition: margin 0.4s linear 0s;
+  background-color: rgb(95, 0, 128);
+}
+
+.css-pqw0uk {
+  position: relative;
+  width: 1050px;
+  margin: 0 auto;
+}
+
+.css-129c9b5 {
+  display: block;
+  font-size: 14px;
+  line-height: 42px;
+  color: rgb(255, 255, 255);
+  height: 42px;
+}
+
+.css-10w9uhr {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 42px;
+  height: 42px;
+}
+
+.g1 {
+  clip-path: url(#clip0_2073_60924);
+}
+
+.path3 {
+  d: path('M 26 26 L 6 6');
+  stroke: rgba(242, 242, 242, 0.7);
+  stroke-linecap: round;
+  stroke-width: 0;
+}
+
+.path4 {
+  d: path('M 6 26 L 26 6');
+  stroke: rgba(242, 242, 242, 0.7);
+  stroke-linecap: round;
+  stroke-width: 0;
+}
+
+.path5 {
+  fill-rule: evenodd;
+  clip-rule: evenodd;
+  d: path(
+    'M 6.28431 5.58859 L 6.35355 5.64645 L 16 15.293 L 25.6464 5.64645 C 25.8417 5.45118 26.1583 5.45118 26.3536 5.64645 C 26.5271 5.82001 26.5464 6.08944 26.4114 6.28431 L 26.3536 6.35355 L 16.707 16 L 26.3536 25.6464 C 26.5488 25.8417 26.5488 26.1583 26.3536 26.3536 C 26.18 26.5271 25.9106 26.5464 25.7157 26.4114 L 25.6464 26.3536 L 16 16.707 L 6.35355 26.3536 C 6.15829 26.5488 5.84171 26.5488 5.64645 26.3536 C 5.47288 26.18 5.4536 25.9106 5.58859 25.7157 L 5.64645 25.6464 L 15.293 16 L 5.64645 6.35355 C 5.45118 6.15829 5.45118 5.84171 5.64645 5.64645 C 5.82001 5.47288 6.08944 5.4536 6.28431 5.58859 Z'
+  );
+  fill: rgba(242, 242, 242, 0.7);
+}
+
+.css-7qb0sc {
+  overflow: hidden;
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+}

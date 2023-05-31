@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+/* 페이스북 마크 살짝 붙히기 */
+
+body.wishket-member .btn-white-border img {
+  margin-right: 8px;
+}
+
+/* 로그인 상태 유지 랑 비밀번호 찾기 띄우기 */
+.mb24 {
+  display: flex;
+  justify-content: space-between;
+}

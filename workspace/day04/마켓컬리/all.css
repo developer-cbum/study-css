@@ -1,0 +1,201 @@
+html {
+  font-family: 'Noto Sans', 'malgun gothic', AppleGothic, dotum, sans-serif;
+  line-height: 1.15;
+}
+html {
+  touch-action: manipulation;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+html {
+  display: block;
+  view-transition-name: root;
+}
+
+html,
+button,
+input,
+select,
+textarea {
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+head {
+  display: none;
+}
+
+body {
+  font-size: 14px;
+  color: #333;
+  margin: 0;
+  user-select: none;
+  background-color: #fff;
+  -webkit-tap-highlight-color: transparent;
+  display: block;
+}
+
+body:focus-visible {
+  outline: none;
+}
+
+body,
+html {
+  height: 100%;
+}
+
+* {
+  margin: 0px;
+}
+
+*,
+:after,
+:before {
+  box-sizing: border-box;
+  margin: 0px;
+}
+
+*,
+:after,
+:before,
+legend,
+td,
+th {
+  padding: 0;
+}
+
+:root {
+  --swiper-theme-color: #007aff;
+}
+
+a {
+  background-color: transparent;
+  text-decoration: none;
+  color: inherit;
+}
+
+a:active,
+a:hover {
+  outline: 0;
+}
+
+img {
+  overflow-clip-margin: content-box;
+  overflow: clip;
+}
+
+img,
+legend {
+  border: 0;
+  vertical-align: top;
+}
+
+canvas,
+img,
+video {
+  max-width: 100%;
+}
+
+button {
+  border-radius: 0;
+}
+button,
+select {
+  text-transform: none;
+}
+
+button {
+  overflow: visible;
+  background-color: transparent;
+  border: none;
+}
+
+ol,
+ul {
+  list-style-type: none;
+}
+
+ul {
+  list-style-type: disc;
+  /* margin-block-start: 1em; */
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  /* padding-inline-start: 40px; */
+}
+
+/* [hidden], template {
+  display: none;
+} */
+
+div {
+  display: block;
+}
+
+h2 {
+  display: block;
+  font-size: 1.5em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+b,
+optgroup,
+strong {
+  font-weight: 700;
+}
+
+svg:not(:root) {
+  overflow: hidden;
+  fill: none;
+  overflow-clip-margin: content-box;
+}
+
+:not(svg) {
+  transform-origin: 0px 0px;
+}
+
+li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+  list-style: none;
+}
+
+input[type='checkbox'],
+input[type='radio'] {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+label {
+  cursor: default;
+}
+
+p {
+  display: block;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+button,
+input[type='button'],
+input[type='reset'],
+input[type='submit'] {
+  -webkit-appearance: button;
+  cursor: pointer;
+}
+
+::placeholder {
+  color: #999;
+  opacity: 1;
+}
+
+body,
+button,
+input,
+select,
+textarea {
+  font-size: 14px;
+  color: #333;
+}
